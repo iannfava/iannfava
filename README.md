@@ -57,8 +57,4 @@ Deploy de um modelo de ML comparando três abordagens de infraestrutura — on-p
 
 </details>
 
----
 
-## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/iannfava) · iannfava@gmail.com
