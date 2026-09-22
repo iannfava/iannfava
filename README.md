@@ -1,8 +1,7 @@
-# Olá, eu sou o Ian 👋
+# Olá, eu sou o Ian 
 
-**More Data. Less Noise.**
 
-Engenheiro de Produção de formação, hoje em transição de carreira para **Dados** com foco em **Analytics Engineering** — trago dessa base o raciocínio estruturado de resolução de problemas. Minha experiência mais recente foi como *sales lead* em uma SaaS de implementação de projetos de IA em empresas, atuando na ponte entre necessidade de negócio e solução técnica. Antes disso, passei por vendas e por 8 anos operando capital próprio no mercado financeiro, o que me deu base analítica sólida para decisão sob incerteza. Hoje aplico essa vivência de negócio e técnica para construir soluções de dados que geram decisão, não só dashboard.
+Engenheiro de Produção de formação, hoje em transição de carreira para **Dados** com foco em **Analytics Engineering**. Trago dessa base o raciocínio estruturado de resolução de problemas. Minha experiência mais recente foi como *sales lead* em uma SaaS de implementação de projetos de IA em empresas, atuando na ponte entre necessidade de negócio e solução técnica. Antes disso, passei por vendas e por 8 anos operando capital próprio no mercado financeiro, o que me deu base analítica sólida para decisão sob incerteza. Hoje aplico essa vivência de negócio e técnica para construir soluções de dados que geram decisão, não só dashboard.
 
 📍 São Paulo / remoto — aberto a oportunidades em todo o Brasil e LATAM
 
