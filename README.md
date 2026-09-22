@@ -1,10 +1,10 @@
 # Olá, eu sou o Ian 👋
 
-
+**More Data. Less Noise.**
 
 Engenheiro de Produção de formação, hoje em transição de carreira para **Dados** com foco em **Analytics Engineering** — trago dessa base o raciocínio estruturado de resolução de problemas. Minha experiência mais recente foi como *sales lead* em uma SaaS de implementação de projetos de IA em empresas, atuando na ponte entre necessidade de negócio e solução técnica. Antes disso, passei por vendas e por 8 anos operando capital próprio no mercado financeiro, o que me deu base analítica sólida para decisão sob incerteza. Hoje aplico essa vivência de negócio e técnica para construir soluções de dados que geram decisão, não só dashboard.
 
-📍 Votuporanga - SP / remoto — aberto a oportunidades em todo o Brasil e LATAM
+📍 São Paulo / remoto — aberto a oportunidades em todo o Brasil e LATAM
 
 ---
 
@@ -30,7 +30,7 @@ Engenheiro de Produção de formação, hoje em transição de carreira para **D
 Data warehouse construído do zero com Docker, Airflow e dbt — pipeline de ingestão, transformação e modelagem seguindo boas práticas de engenharia de dados.
 
 **[azure-iot-data-pipeline](https://github.com/iannfava/azure-iot-data-pipeline)**
-Pipeline de dados na Azure simulando uma fábrica inteligente, com arquitetura medallion (Data Factory, Synapse, IoT Hub, Functions) cobrindo camadas batch, analítica e streaming.
+Pipeline de dados na Azure simulando uma fábrica inteligente, com arquitetura medallion (Data Factory, Synapse com Spark Pools/PySpark, IoT Hub, Functions) cobrindo camadas batch, analítica e streaming.
 
 **[ecommerce-sales-analytics](https://github.com/iannfava/ecommerce-sales-analytics)**
 Análise de dados de vendas de e-commerce aplicando os 4 tipos de análise (descritiva, diagnóstica, preditiva e prescritiva) para apoiar decisões comerciais.
@@ -46,6 +46,14 @@ Dashboard interativo em Python e Streamlit para leitura estratégica de indicado
 
 **[ml-deployment-comparison](https://github.com/iannfava/ml-deployment-comparison)**
 Deploy de um modelo de ML comparando três abordagens de infraestrutura — on-premise, cloud e serverless — avaliando trade-offs de custo, escalabilidade e latência.
+
+</details>
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/iannfava) · iannfava@gmail.com
 
 </details>
 
