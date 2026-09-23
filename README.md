@@ -52,7 +52,7 @@ Deploy de um modelo de ML comparando duas abordagens de infraestrutura (on-premi
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/iannfava) · iannfava@gmail.com
+[LinkedIn](https://www.linkedin.com/in/iannfava) - iannfava@gmail.com - [Portifólio](https://iannfava.github.io/)
 
 </details>
 
