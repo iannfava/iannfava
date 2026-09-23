@@ -1,7 +1,7 @@
 # Olá, eu sou o Ian 
 
 
-Engenheiro de Produção de formação, hoje em transição de carreira para **Dados** com foco em **Analytics Engineering**. Trago dessa base o raciocínio estruturado de resolução de problemas. Minha experiência mais recente foi como *sales lead* em uma SaaS de implementação de projetos de IA em empresas, atuando na ponte entre necessidade de negócio e solução técnica. Antes disso, passei por vendas e por 8 anos operando capital próprio no mercado financeiro, o que me deu base analítica sólida para decisão sob incerteza. Hoje aplico essa vivência de negócio e técnica para construir soluções de dados que geram decisão, não só dashboard.
+Engenheiro de Produção de formação, hoje em transição de carreira para **Dados** com foco em **Analytics Engineering**. Trago dessa base o raciocínio estruturado de resolução de problemas. Minha experiência mais recente foi como *sales lead* em uma SaaS de implementação de projetos de IA em empresas, atuando na ponte entre necessidade de negócio e solução técnica. Antes disso, passei por vendas e por 8 anos trabalhando com mercado financeiro, o que me deu base analítica sólida para decisão sob incerteza. Hoje aplico essa vivência de negócio e técnica para construir soluções de dados que geram decisão, não só dashboard.
 
 📍 São Paulo / remoto — aberto a oportunidades em todo o Brasil e LATAM
 
@@ -26,7 +26,7 @@ Engenheiro de Produção de formação, hoje em transição de carreira para **D
 ## 📌 Projetos em destaque
 
 **[data-warehouse-airflow-dbt](https://github.com/iannfava/data-warehouse-airflow-dbt)**
-Data warehouse construído do zero com Docker, Airflow e dbt — pipeline de ingestão, transformação e modelagem seguindo boas práticas de engenharia de dados.
+Data warehouse construído do zero com Docker, Airflow e dbt : pipeline de ingestão, transformação e modelagem seguindo boas práticas de engenharia de dados.
 
 **[azure-iot-data-pipeline](https://github.com/iannfava/azure-iot-data-pipeline)**
 Pipeline de dados na Azure simulando uma fábrica inteligente, com arquitetura medallion (Data Factory, Synapse com Spark Pools/PySpark, IoT Hub, Functions) cobrindo camadas batch, analítica e streaming.
@@ -35,7 +35,7 @@ Pipeline de dados na Azure simulando uma fábrica inteligente, com arquitetura m
 Análise de dados de vendas de e-commerce aplicando os 4 tipos de análise (descritiva, diagnóstica, preditiva e prescritiva) para apoiar decisões comerciais.
 
 **[powerbi-ecommerce-dashboard](https://github.com/iannfava/powerbi-ecommerce-dashboard)**
-Dashboard em Power BI sobre o dataset Olist (e-commerce BR), com 6 visões de negócio — metas, clusterização, Pareto e cohort — simulando uma entrega para diretoria.
+Dashboard em Power BI sobre o dataset Olist (e-commerce BR), com 6 visões de negócio : metas, clusterização, Pareto e cohort, simulando uma entrega para diretoria.
 
 <details>
 <summary>Ver todos os projetos</summary>
@@ -44,7 +44,7 @@ Dashboard em Power BI sobre o dataset Olist (e-commerce BR), com 6 visões de ne
 Dashboard interativo em Python e Streamlit para leitura estratégica de indicadores de negócio, com dados tratados e visualizações voltadas a apoio à decisão.
 
 **[ml-deployment-comparison](https://github.com/iannfava/ml-deployment-comparison)**
-Deploy de um modelo de ML comparando três abordagens de infraestrutura — on-premise, cloud e serverless — avaliando trade-offs de custo, escalabilidade e latência.
+Deploy de um modelo de ML comparando duas abordagens de infraestrutura (on-premise e serverless), avaliando trade-offs de custo, escalabilidade e latência.
 
 </details>
 
