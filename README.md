@@ -1,7 +1,11 @@
 # Olá, eu sou o Ian 
 
 
-Engenheiro de Produção de formação, hoje em transição de carreira para **Dados** com foco em **Analytics Engineering**. Trago dessa base o raciocínio estruturado de resolução de problemas. Minha experiência mais recente foi como *sales lead* em uma SaaS de implementação de projetos de IA em empresas, atuando na ponte entre necessidade de negócio e solução técnica. Antes disso, passei por vendas e por 8 anos trabalhando com mercado financeiro, o que me deu base analítica sólida para decisão sob incerteza. Hoje aplico essa vivência de negócio e técnica para construir soluções de dados que geram decisão, não só dashboard.
+Sou formado em Engenharia de Produção e direciono minha carreira para Analytics Engineering, conectando engenharia de dados, análise e necessidades de negócio.
+
+Minha trajetória combina experiência comercial, empreendedorismo e cerca de 8 anos de atuação em análise quantitativa e gestão de risco no mercado financeiro. Mais recentemente, atuei como Head de Vendas em uma SaaS de IA, fazendo a ponte entre necessidades de negócio e soluções técnicas.
+
+Hoje, aplico essa combinação de raciocínio analítico, visão de negócio e competências técnicas para construir soluções de dados que apoiam decisões.
 
 📍 Votuporanga - São Paulo / remoto, aberto a oportunidades em todo o Brasil e LATAM
 
