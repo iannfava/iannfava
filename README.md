@@ -3,7 +3,7 @@
 
 Sou formado em Engenharia de Produção e direciono minha carreira para Analytics Engineering, conectando engenharia de dados, análise e necessidades de negócio.
 
-Minha trajetória combina experiência comercial, empreendedorismo e cerca de 8 anos de atuação em análise quantitativa e gestão de risco no mercado financeiro. Mais recentemente, atuei como Head de Vendas em uma SaaS de IA, fazendo a ponte entre necessidades de negócio e soluções técnicas.
+Minha trajetória combina experiência comercial, empreendedorismo e mercado financeiro. Mais recentemente, atuei como cofundador e Head de Vendas em uma SaaS de IA, fazendo a ponte entre necessidades de negócio e soluções técnicas.
 
 Hoje, aplico essa combinação de raciocínio analítico, visão de negócio e competências técnicas para construir soluções de dados que apoiam decisões.
 
