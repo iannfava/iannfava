@@ -31,16 +31,16 @@ Hoje, aplico essa combinação de raciocínio analítico, visão de negócio e c
 ## 📌 Projetos em destaque
 
 **[data-warehouse-airflow-dbt](https://github.com/iannfava/data-warehouse-airflow-dbt)**
-Data warehouse construído do zero com Docker, Airflow e dbt : pipeline de ingestão, transformação e modelagem seguindo boas práticas de engenharia de dados.
+Data Warehouse end-to-end desenvolvido com Docker, Airflow e dbt, incluindo ingestão, transformação e modelagem de dados para consumo analítico.
 
 **[azure-iot-data-pipeline](https://github.com/iannfava/azure-iot-data-pipeline)**
-Pipeline de dados na Azure simulando uma fábrica inteligente, com arquitetura medallion (Data Factory, Synapse com Spark Pools/PySpark, IoT Hub, Functions) cobrindo camadas batch, analítica e streaming.
+Pipeline de dados em Azure simulando uma fábrica inteligente, com arquitetura medallion (Bronze, Silver e Gold). Utiliza Azure Data Factory, Synapse Analytics, Spark Pools/PySpark, IoT Hub e Azure Functions para integrar fluxos de dados em batch, analíticos e streaming.
 
 **[ecommerce-sales-analytics](https://github.com/iannfava/ecommerce-sales-analytics)**
-Análise de dados de vendas de e-commerce aplicando os 4 tipos de análise (descritiva, diagnóstica, preditiva e prescritiva) para apoiar decisões comerciais.
+Projeto de análise de dados de vendas de e-commerce utilizando análise descritiva, diagnóstica, preditiva e prescritiva. Explora dados comerciais para identificar padrões, investigar resultados e apoiar a tomada de decisão.
 
 **[powerbi-ecommerce-dashboard](https://github.com/iannfava/powerbi-ecommerce-dashboard)**
-Dashboard em Power BI sobre o dataset Olist (e-commerce BR), com 6 visões de negócio : metas, clusterização, Pareto e cohort, simulando uma entrega para diretoria.
+Dashboard de Business Intelligence desenvolvido no Power BI com dados do Olist (e-commerce brasileiro). Apresenta seis visões de negócio, incluindo metas, clusterização, análise de Pareto e cohort, simulando uma entrega analítica para a diretoria.
 
 <details>
 <summary>Ver todos os projetos</summary>
