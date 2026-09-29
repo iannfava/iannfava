@@ -34,7 +34,7 @@ Hoje, aplico essa combinação de raciocínio analítico, visão de negócio e c
 Data Warehouse de atrasos de voos nos EUA: ingestão, modelagem dimensional e orquestração diária com dbt, Airflow, PostgreSQL e Docker, com CI no GitHub Actions.
 
 **[azure-iot-data-pipeline](https://github.com/iannfava/azure-iot-data-pipeline)**
-Pipeline de dados em Azure simulando uma fábrica inteligente, com arquitetura medallion (Bronze, Silver e Gold). Utiliza Azure Data Factory, Synapse Analytics, Spark Pools/PySpark, IoT Hub e Azure Functions para integrar fluxos de dados em batch, analíticos e streaming.
+Pipeline de dados na Azure simulando uma fábrica inteligente, com arquitetura medallion (Data Factory, Synapse com Spark Pools/PySpark, IoT Hub, Functions) cobrindo ingestão batch e telemetria em tempo real.
 
 **[ecommerce-sales-analytics](https://github.com/iannfava/ecommerce-sales-analytics)**
 Projeto de análise de dados de vendas de e-commerce utilizando análise descritiva, diagnóstica, preditiva e prescritiva. Explora dados comerciais para identificar padrões, investigar resultados e apoiar a tomada de decisão.
