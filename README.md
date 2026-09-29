@@ -31,7 +31,7 @@ Hoje, aplico essa combinação de raciocínio analítico, visão de negócio e c
 ## 📌 Projetos em destaque
 
 **[data-warehouse-airflow-dbt](https://github.com/iannfava/data-warehouse-airflow-dbt)**
-Data Warehouse end-to-end desenvolvido com Docker, Airflow e dbt, incluindo ingestão, transformação e modelagem de dados para consumo analítico.
+Data Warehouse de atrasos de voos nos EUA: ingestão, modelagem dimensional e orquestração diária com dbt, Airflow, PostgreSQL e Docker, com CI no GitHub Actions.
 
 **[azure-iot-data-pipeline](https://github.com/iannfava/azure-iot-data-pipeline)**
 Pipeline de dados em Azure simulando uma fábrica inteligente, com arquitetura medallion (Bronze, Silver e Gold). Utiliza Azure Data Factory, Synapse Analytics, Spark Pools/PySpark, IoT Hub e Azure Functions para integrar fluxos de dados em batch, analíticos e streaming.
