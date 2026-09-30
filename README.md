@@ -49,7 +49,7 @@ Dashboard de Business Intelligence desenvolvido no Power BI com dados do Olist (
 Dashboard interativo em Python e Streamlit para leitura estratégica de indicadores de negócio, com dados tratados e visualizações voltadas a apoio à decisão.
 
 **[ml-deployment-comparison](https://github.com/iannfava/ml-deployment-comparison)**
-Deploy de um modelo de ML comparando duas abordagens de infraestrutura (on-premise e serverless), avaliando trade-offs de custo, escalabilidade e latência.
+Modelo de ML (LightGBM) implantado de 2 formas: job batch agendado no Databricks lendo/gravando no PostgreSQL, e API FastAPI + interface Streamlit em Docker no Render.
 
 </details>
 
