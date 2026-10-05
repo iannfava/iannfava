@@ -46,7 +46,7 @@ Dashboard de Business Intelligence desenvolvido no Power BI com dados do Olist (
 <summary>Ver todos os projetos</summary>
 
 **[strategic-dashboard-streamlit](https://github.com/iannfava/strategic-dashboard-streamlit)**
-Dashboard interativo em Python e Streamlit para leitura estratégica de indicadores de negócio, com dados tratados e visualizações voltadas a apoio à decisão.
+Dashboard interativo em Python e Streamlit com KPIs de um marketplace de delivery (pedidos, entregadores e restaurantes), com dados tratados e visualizações para apoio à decisão.
 
 **[ml-deployment-comparison](https://github.com/iannfava/ml-deployment-comparison)**
 Modelo de ML (LightGBM) implantado de 2 formas: job batch agendado no Databricks lendo/gravando no PostgreSQL, e API FastAPI + interface Streamlit em Docker no Render.
