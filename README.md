@@ -51,7 +51,7 @@ Dashboard interativo em Python e Streamlit com KPIs de um marketplace de deliver
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/iannfava) - iannfava@gmail.com - [Portifólio](https://iannfava.github.io/)
+[LinkedIn](https://www.linkedin.com/in/iannfava) - iannfava@gmail.com - [Portfólio](https://iannfava.github.io/)
 
 </details>
 
