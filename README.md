@@ -1,7 +1,7 @@
 # Olá, eu sou o Ian 
 
 
-Sou formado em Engenharia de Produção e direciono minha carreira para Analytics Engineering, conectando engenharia de dados, análise e necessidades de negócio.
+Sou Engenheiro de Produção e direciono minha carreira para Analytics Engineering, conectando engenharia de dados, análise e necessidades de negócio.
 
 Minha trajetória combina experiência comercial, empreendedorismo e mercado financeiro. Mais recentemente, atuei como cofundador e Head de Vendas em uma SaaS de IA, fazendo a ponte entre necessidades de negócio e soluções técnicas.
 
