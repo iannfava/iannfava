@@ -36,20 +36,14 @@ Data Warehouse de atrasos de voos nos EUA: ingestão, modelagem dimensional e or
 **[azure-iot-data-pipeline](https://github.com/iannfava/azure-iot-data-pipeline)**
 Pipeline de dados na Azure simulando uma fábrica inteligente, com arquitetura medallion (Data Factory, Synapse com Spark Pools/PySpark, IoT Hub, Functions) cobrindo ingestão batch e telemetria em tempo real.
 
-**[ecommerce-sales-analytics](https://github.com/iannfava/ecommerce-sales-analytics)**
-Projeto de análise de dados de vendas de e-commerce utilizando análise descritiva, diagnóstica, preditiva e prescritiva. Explora dados comerciais para identificar padrões, investigar resultados e apoiar a tomada de decisão.
+**[ml-deployment-comparison](https://github.com/iannfava/ml-deployment-comparison)**
+Modelo de ML (LightGBM) implantado de 2 formas: job batch agendado no Databricks lendo/gravando no PostgreSQL, e API FastAPI + interface Streamlit em Docker no Render.
 
 **[powerbi-ecommerce-dashboard](https://github.com/iannfava/powerbi-ecommerce-dashboard)**
 Dashboard de Business Intelligence desenvolvido no Power BI com dados do Olist (e-commerce brasileiro). Apresenta seis visões de negócio, incluindo metas, clusterização, análise de Pareto e cohort, simulando uma entrega analítica para a diretoria.
 
-<details>
-<summary>Ver todos os projetos</summary>
-
 **[strategic-dashboard-streamlit](https://github.com/iannfava/strategic-dashboard-streamlit)**
 Dashboard interativo em Python e Streamlit com KPIs de um marketplace de delivery (pedidos, entregadores e restaurantes), com dados tratados e visualizações para apoio à decisão.
-
-**[ml-deployment-comparison](https://github.com/iannfava/ml-deployment-comparison)**
-Modelo de ML (LightGBM) implantado de 2 formas: job batch agendado no Databricks lendo/gravando no PostgreSQL, e API FastAPI + interface Streamlit em Docker no Render.
 
 </details>
 
