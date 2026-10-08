@@ -7,7 +7,7 @@ Minha trajetória combina experiência comercial, empreendedorismo e mercado fin
 
 Hoje, aplico essa combinação de raciocínio analítico, visão de negócio e competências técnicas para construir soluções de dados que apoiam decisões.
 
-📍 Votuporanga - São Paulo / remoto, aberto a oportunidades em todo o Brasil e LATAM
+📍 Votuporanga - São Paulo 
 
 ---
 
